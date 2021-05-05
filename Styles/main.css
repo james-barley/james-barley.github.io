@@ -55,3 +55,9 @@ ul{
     background-position: center;
     background-repeat: no-repeat;
 }
+
+h4{
+        color:magenta;
+        font-family: 'B612 Mono', monospace;
+        text-align:center;
+}
